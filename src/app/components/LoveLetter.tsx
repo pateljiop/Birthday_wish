@@ -126,10 +126,10 @@ export function LoveLetter() {
                     Happy Birthday, Meri Jaan! 🎂🎉
                   </p>
                   <p className="text-lg md:text-xl text-gray-700 font-semibold mb-2">
-                    Hamesha tumhara,
+                    Hamesha tumhara fav
                   </p>
                   <p className="text-2xl md:text-3xl font-black text-purple-600">
-                    Bachcha (Your Developer) 👨‍💻💝
+                     (Your Developer) 👨‍💻💝
                   </p>
                 </div>
 
