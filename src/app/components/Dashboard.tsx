@@ -41,7 +41,7 @@ export function Dashboard() {
             </h1>
             <p className="text-[#00ff00]/70 font-mono text-lg">09 June 2026</p>
             <p className="text-[#00ff00]/50 font-mono text-sm mt-2">
-              A special compilation by Bachcha
+              A special compilation by Your Fav
             </p>
           </div>
 
