@@ -69,7 +69,7 @@ export function FinalMessage() {
 
         {/* Footer */}
         <div className="text-gray-700 space-y-2">
-          <p className="font-black text-lg">Made with 💖 by Bachcha</p>
+          <p className="font-black text-lg">Made with 💖 by Your fav</p>
           <p className="text-base font-semibold text-gray-600">© 2026 | All memories reserved forever</p>
         </div>
       </motion.div>
