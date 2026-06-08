@@ -19,7 +19,7 @@ const memories = [
   {
     date: 'Har Din',
     title: 'Tumhari Yaadein',
-    description: 'Bina propose kiye bhi jo pyaar hua, woh sab se special hai. Tumhara space mere dil mein hamesha exclusive rahega.',
+    description: 'Bina propose kiye bhi jo pyaar hua, woh sab se special hai.',
     icon: Heart,
     color: 'from-red-400 to-red-600',
   },
