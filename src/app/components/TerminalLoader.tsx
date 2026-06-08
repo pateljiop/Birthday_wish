@@ -24,7 +24,7 @@ export function TerminalLoader({ onComplete }: TerminalLoaderProps) {
     { text: '> Loading: Tumhare_Area_Mein_Milna.mp4 [12 Nov 2024]', delay: 500 },
     { text: '> Compiling memories: 1,248 commits', delay: 600 },
     { text: '> System ready. ✓', delay: 400 },
-    { text: '> Launching birthday protocol for Bulbul...', delay: 800 },
+    { text: '> Launching birthday protocol for Bachcha...', delay: 800 },
   ];
 
   useEffect(() => {
