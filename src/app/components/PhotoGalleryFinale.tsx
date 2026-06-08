@@ -30,7 +30,7 @@ const memories = [
   {
     title: "Forever",
     date: "Always",
-    memory: "Tumhara space mere dil mein hamesha 💖",
+    memory: "Tum mere dil me ek exclusive jagah deserve krti ho  💖",
   },
 ];
 
