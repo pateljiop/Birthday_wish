@@ -36,7 +36,7 @@ export function ShayariCard() {
                 "Tumne hi mere dil ki ghanti pehli baar bajayi thi, Bachcha...
                 aur woh aawaaz aaj bhi kahin na kahin mere andar goonjti hai.
                 <br /><br />
-                Is dil ke poore database mein tumhara space hamesha exclusive rahega.
+                Is dil ke poore database mein tumhara jagah koi nhi le skta .
                 <br /><br />
                 I miss you a lot, more than this code can ever render."
               </p>
@@ -49,9 +49,9 @@ export function ShayariCard() {
                 className="text-center"
               >
                 <p className="text-3xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent mb-2">
-                  Happy Birthday, Bulbul! 💕
+                  Happy Birthday, Bachcha! 💕
                 </p>
-                <p className="text-gray-500 italic">- Tumhara Bachcha</p>
+                <p className="text-gray-500 italic">- Tumhara fav</p>
               </motion.div>
             </motion.div>
 
