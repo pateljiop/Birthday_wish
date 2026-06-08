@@ -10,7 +10,7 @@ export function InteractiveWish() {
     '😊 Hamesha khush raho',
     '🌟 Har din naya success mile',
     '💪 Healthy aur strong raho',
-    '📚 CSE mein top karo',
+    '📚 BTECH mein top karo',
     '🎯 Apne sapne pure karo',
     '👨‍👩‍👧‍👦 Family hamesha khush rahe',
     '💝 Life mein pyaar hi pyaar mile',
