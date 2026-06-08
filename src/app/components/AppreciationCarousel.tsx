@@ -11,7 +11,7 @@ const messages = [
   },
   {
     title: "Tumhara Dil",
-    message: "Tumhara dil kitna saaf hai, Bulbul. Tum sabka itna khayal rakhti ho. Tumhari caring nature se main impressed hoon hamesha! 💖",
+    message: "Tumhara dil kitna saaf hai, Bachcha. Tum sabka itna khayal rakhti ho. Tumhari caring nature se main impressed hoon hamesha! 💖",
     emoji: "💖",
     color: "from-pink-400 to-red-500",
   },
@@ -35,7 +35,7 @@ const messages = [
   },
   {
     title: "Tumhari Uniqueness",
-    message: "Tum ek unique person ho, Bulbul. Tumhari har baat, har habit special hai. Tumhare jaisa koi nahi hai! 👑",
+    message: "Tum ek unique person ho, Bachcha. Tumhari har baat, har habit special hai. Tumhare jaisa koi nahi hai! 👑",
     emoji: "👑",
     color: "from-yellow-500 to-amber-600",
   },
