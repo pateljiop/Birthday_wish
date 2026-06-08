@@ -19,14 +19,14 @@ const promises = [
   {
     icon: Sparkles,
     title: 'Special Treatment',
-    description: 'Tumhara space mere dil mein hamesha exclusive rahega',
+    description: 'Tum mere liye hmesa khas rhogi',
     color: 'from-purple-500 to-pink-600',
     bgColor: 'from-purple-50 to-pink-50',
   },
   {
     icon: Sun,
     title: 'Roz Nayi Subah',
-    description: 'Har din tumhe smile dene ki koshish karunga',
+    description: 'Har din tumhe smile dene ki koshish ',
     color: 'from-orange-500 to-red-600',
     bgColor: 'from-orange-50 to-red-50',
   },
