@@ -9,7 +9,7 @@ const messages = [
   },
   {
     locked: "Ek Aur Secret...",
-    unlocked: "Raat ko tumhari yaad aati hai... sone se pehle tumhare baare mein sochta hoon. Tum ho to neend bhi achi aati hai! 🌙✨",
+    unlocked: "Raat ko tumhari yaad aati hai... sone se pehle tumhare baare mein sochta hoon. ! 🌙✨",
   },
   {
     locked: "Tumhare Liye Kuch Khaas...",
