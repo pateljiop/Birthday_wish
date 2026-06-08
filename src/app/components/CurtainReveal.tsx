@@ -213,10 +213,10 @@ export function CurtainReveal() {
                       Happy Birthday! 🎉
                     </p>
                     <p className="text-xl md:text-2xl text-gray-700 font-semibold">
-                      Hamesha tumhara,
+                      Hamesha tumhara fav
                     </p>
                     <p className="text-2xl md:text-3xl font-black text-purple-600 mt-2">
-                      Bachcha 👨‍💻💝
+                      , 👨‍💻💝
                     </p>
                   </motion.div>
                 </div>
